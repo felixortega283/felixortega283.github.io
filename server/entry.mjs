@@ -1,10 +1,10 @@
 import { renderers } from './renderers.mjs';
-import { c as createExports, s as serverEntrypointModule } from './chunks/_@astrojs-ssr-adapter_D070vSjz.mjs';
-import { manifest } from './manifest_BRiQ-oCf.mjs';
+import { c as createExports, s as serverEntrypointModule } from './chunks/_@astrojs-ssr-adapter_hRRz3KL_.mjs';
+import { manifest } from './manifest_D10RLcxY.mjs';
 
 const serverIslandMap = new Map([
-	['DynamicHead', () => import('./chunks/DynamicHead_dqk0lsJW.mjs')],
-	['Heart', () => import('./chunks/Heart_C_-dRo-b.mjs')],
+	['DynamicHead', () => import('./chunks/DynamicHead_DJ3U-rFo.mjs')],
+	['Heart', () => import('./chunks/Heart_OZAVx77f.mjs')],
 ]);;
 
 const _page0 = () => import('./pages/images.astro.mjs');
